@@ -2,7 +2,7 @@
 The menus of the university restaurant directly on Discord, it's easier, right?
 
 <p align="center">
-  <img width="512" height="512" src="https://github.com/NeldaZeram/Menu_RU/blob/eec2f25fd06d25126cabfb23c41c4a2303cc4cfc/logo_bot.png?raw=true">
+  <img width="512" height="512" src="./logo_bot.png">
 </p>
 
 ## Installing the files
