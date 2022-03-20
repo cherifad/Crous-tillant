@@ -9,7 +9,7 @@ The menus of the university restaurant directly on Discord, it's easier, right?
 
 • You can either fork this repo or just download the zip.
 
-• You can ever use `git clone https://github.com/NeldaZeram/Menu_RU` 
+• You can ever use `git clone https://github.com/NeldaZeram/Crous-tillant` 
 
 ## Prerequisites
 
